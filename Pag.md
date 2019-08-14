@@ -64,8 +64,8 @@ Estos permiten obtener armónicos artificiales, para lograr obtenerlos<br> el m�
       <td>Trémolo (en italiano, «temblor»)</td>               
 
  <td>Se indica trazando unas líneas a través de la plica de una nota<br> y es el signo empleado para indicar la ejecución de una sola nota,<br> rozando el arco rápidamente.</td>
-              
-           </tr>
+ </tr>             
+          
  <tr>
   
   <td>Col legno (en italiano, «con la madera»)</td>
